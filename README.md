@@ -23,3 +23,7 @@ Get the users age, the age they would like to retire and then figure out what ye
 exercise 6 - https://repl.it/@Lewiz/AP-Daily-Monday-6#main.cpp
 
 Input heart rate and age and show a table to display what the heart rate should be based on the intensity of the exercise
+
+exercise 7 - https://repl.it/@Lewiz/AP-Daily-Monday-7#main.cpp
+
+Input numbers until the user quits, then tally the number of positives, negatives and zeros as well as the total amount of numbers
