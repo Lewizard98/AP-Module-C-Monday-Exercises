@@ -19,3 +19,7 @@ Use the % operater to decide if a number is odd/even
 exercise 5 - https://repl.it/@Lewiz/AP-Daily-Monday-5#main.cpp
 
 Get the users age, the age they would like to retire and then figure out what year they can retire
+
+exercise 6 - https://repl.it/@Lewiz/AP-Daily-Monday-6#main.cpp
+
+Input heart rate and age and show a table to display what the heart rate should be based on the intensity of the exercise
