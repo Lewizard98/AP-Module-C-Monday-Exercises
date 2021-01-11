@@ -15,5 +15,5 @@ int main() {
   untilRetirement = retirementAge - inputAge;
   retirementYear = currentYear + untilRetirement;
 
-  std::cout << "The current year is " << currentYear << ", you can retire in " << retirementYear << " you have " << untilRetirement << " remaining";
+  std::cout << "The current year is " << currentYear << ", you can retire in " << retirementYear << " you have " << untilRetirement << " years remaining";
 }
