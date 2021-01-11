@@ -27,3 +27,7 @@ Input heart rate and age and show a table to display what the heart rate should 
 exercise 7 - https://repl.it/@Lewiz/AP-Daily-Monday-7#main.cpp
 
 Input numbers until the user quits, then tally the number of positives, negatives and zeros as well as the total amount of numbers
+
+exercise 8 - https://repl.it/@Lewiz/AP-Daily-Monday-8#main.cpp
+
+Input numbers and then it will display the amount of numbers, the highest and the lowest
