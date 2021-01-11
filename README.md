@@ -11,3 +11,7 @@ Takes a temperiture and converts it from Centigrade to Fahrenheit or from Fahren
 exercise 3 - https://repl.it/@Lewiz/AP-Daily-Monday-3#main.cpp
 
 Input the length and width of a room, calculate the area in square foot and meters
+
+exercise 4 - https://repl.it/@Lewiz/AP-Daily-Monday-4#main.cpp
+
+Use the % operater to decide if a number is odd/even
