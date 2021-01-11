@@ -31,3 +31,7 @@ Input numbers until the user quits, then tally the number of positives, negative
 exercise 8 - https://repl.it/@Lewiz/AP-Daily-Monday-8#main.cpp
 
 Input numbers and then it will display the amount of numbers, the highest and the lowest
+
+exercise 9 - https://repl.it/@Lewiz/AP-Daily-Monday-9#main.cpp
+
+Input a character and it will tell you if it is a digit, alpha or special character
