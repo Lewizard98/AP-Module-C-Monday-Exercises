@@ -15,3 +15,7 @@ Input the length and width of a room, calculate the area in square foot and mete
 exercise 4 - https://repl.it/@Lewiz/AP-Daily-Monday-4#main.cpp
 
 Use the % operater to decide if a number is odd/even
+
+exercise 5 - https://repl.it/@Lewiz/AP-Daily-Monday-5#main.cpp
+
+Get the users age, the age they would like to retire and then figure out what year they can retire
